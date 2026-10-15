@@ -1,6 +1,6 @@
 # Hi, I'm Laiba Nasir
 
-Third-year BS Data Science student at NUST (SEECS), Islamabad. I like turning messy data into something clear enough to act on, and I'm looking for data science roles where I can keep learning by building.
+BS Data Science student at NUST (SEECS), Islamabad. I like turning messy data into something clear enough to act on, and I'm looking for data science roles where I can keep learning by building.
 
 ---
 
@@ -28,6 +28,6 @@ Third-year BS Data Science student at NUST (SEECS), Islamabad. I like turning me
 
 ## Background
 
-- BS Data Science, National University of Sciences and Technology (NUST), 2024 to 2028 (expected)
+- BS Data Science
 - Two years of freelance work analyzing performance data for 50+ websites
 - Introduction to Google SEO, University of California, Davis (Coursera), 2025
